@@ -1,5 +1,5 @@
-# Unemployables Portfolio Template
-A template for the Unemployables who need to showcase their creative work, whatever that may be.
+# Portfolio Template
+
 <br /><br />
 **Demo:** https://ndoherty-eth.github.io/unemployables-portfolio-template/
 <br />
