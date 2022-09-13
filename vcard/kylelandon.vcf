@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Landon;Kyle;;;
+FN:Kyle Landon
+ORG:Moffatt & Nichol
+ADR;TYPE=WORK:505 S. 336th Street, Suite 510
+Federal Way, WA 98003
+TITLE:Coastal Engineer, GIS Manager
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:2532375933
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:klandon@moffattnichol.com
+URL;TYPE=Digital Business Card:https://landky.gitub.io/vcard
+URL:https://www.moffattnichol.com/
+URL;TYPE=Website:https://www.moffattnichol.com/
+URL;TYPE=LinkedIn:https://linkedin.com/in/kyle-landon
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100057205
+END:VCARD
