@@ -98,19 +98,3 @@ Half Width Image:
 5. Refresh the project page in your browser and boom! Your image has been added to the gallery.
 <br />
 <br />
-
-## Publishing with Github Pages
-Github Pages allows us to host this website for free! It's pretty simple to set up as well.
-
-1. Head to `Settings` on the repository
-2. The repository will need to be public for this work (if it's not, navigate to `General` and scroll all the way down to `Change repository visibility`. Make it public)
-3. Navigate to `Pages` in the sidebar
-5. For `Source` choose `main` from the dropdown. Save the changes.
-6. That's it! Github should give you a URL that your website is published on (give it a few minutes to update).
-7. To add a custom domain (i.e. yourname.com), follow this guide: https://medium.com/codex/add-a-custom-domain-to-your-github-pages-personal-website-53ab40e7c7d0
-<br />
-<br />
-
-## That's it!
-Feel free to send me pictures of your portfolio website once it's up and running. Would love to see them!
-https://twitter.com/ndoherty_eth
