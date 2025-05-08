@@ -1,1 +1,1 @@
-landky.github.io/vcard
+https://landky.github.io/vcard
